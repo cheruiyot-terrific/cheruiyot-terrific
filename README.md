@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Shadrack Cheruiyot 👋</h1>
 
 <h3 align="center">
@@ -134,5 +133,4 @@ I focus on platforms that are:
 <p align="center">
   <strong>Building the future of scalable digital publishing, one platform at a time.</strong>
 </p>
-```
 
